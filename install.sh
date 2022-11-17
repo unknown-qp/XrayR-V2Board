@@ -265,8 +265,8 @@ install_XrayR() {
     echo "XrayR version            - 查看 XrayR 版本"
     echo "------------------------------------------"
     echo "One-Step Script Based on XrayR-Release"
-    echo "Telegram: https://t.me/missuo"
-    echo "Github: https://github.com/missuo/XrayR-V2Board"
+    echo "Telegram: https://t.me/unknown-qp"
+    echo "Github: https://github.com/unknown-qp/XrayR-V2Board"
     echo "Powered by Vincent"
 }
 
